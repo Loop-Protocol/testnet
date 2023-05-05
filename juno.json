@@ -1,0 +1,16 @@
+{
+  "type": "cosmos",
+  "value": {
+    "key": "junor1",
+    "chain-id": "testing",
+    "rpc-addr": "http://localhost:36657",
+    "account-prefix": "juno",
+ "keyring-backend": "test",
+    "gas-adjustment": 1.2,
+    "gas-prices": "10ujunox",
+    "debug": true,
+    "timeout": "20s",
+    "output-format": "json",
+    "sign-mode": "direct"
+  }
+}
